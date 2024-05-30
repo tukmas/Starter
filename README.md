@@ -37,7 +37,7 @@ URI эндпоинта: http://localhost:8080/
 
 
 _**Проект построен на базе Spring Boot и использует следующие технологии:**_
-- Java 11
+- Java 17
 - Spring Framework
 - Maven
 
